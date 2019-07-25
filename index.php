@@ -55,7 +55,7 @@ if (!isset($_SESSION['uemail'])) {
 
         <footer class="mastfoot mt-auto">
             <div class="inner">
-                <p>Create by <a href="#">Iqbal</a></p>
+                <p>Create by <a href="#">Saeid</a></p>
             </div>
         </footer>
     </div>
