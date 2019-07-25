@@ -1,0 +1,16 @@
+{
+  "name": "onlinevotingsystem",
+  "version": "1.0.0",
+  "description": "This is a varsity project for online voting system",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saeid",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "feather-icons": "^4.22.1",
+    "jquery": "^3.4.1"
+  }
+}
